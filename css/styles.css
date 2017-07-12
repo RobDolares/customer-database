@@ -1,0 +1,13 @@
+body {
+  margin: 0 auto;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#title {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.dir-container{
+  
+}

@@ -7,6 +7,7 @@ body {
   text-transform: uppercase;
   text-align: center;
 }
+
 main {
   margin: 0 auto;
 }
@@ -19,14 +20,18 @@ main {
 }
 
 .user-box {
+  display: flex;
+  flex-direction: column;
   flex: 1 0 25%;
-  overflow:0;
+  overflow: 0;
   text-align: center;
   align-content: stretch;
 }
 
 img {
   object-fit: fill;
+  min-width: 218px;
+  overflow: hidden;
   width: 95%;
   margin-bottom: 15px;
 }
@@ -39,12 +44,12 @@ h3 {
   white-space: nowrap;
   margin: 0px auto 5px auto;
   text-transform: uppercase;
-  padding-bottom:15px;
+  padding-bottom: 15px;
   font-size: 1em;
 }
 
-h3 >span {
-    border-bottom: 2px solid #5cb68b;
+h3>span {
+  border-bottom: 2px solid #5cb68b;
 }
 
 .email {
@@ -56,7 +61,7 @@ h3 >span {
 
 address {
   white-space: nowrap;
-  padding-top:10px;
+  padding-top: 10px;
   line-height: 1.5em;
   text-transform: capitalize;
   margin-bottom: 5px;

@@ -61,15 +61,22 @@ address {
   text-transform: capitalize;
   margin-bottom: 5px;
   font-style: normal;
-  font-size: .8em;
+  font-size: .9em;
 }
 
 .phone {
   white-space: nowrap;
   color: black;
+  font-size: 0.9em;
 }
 
 .ssn {
   margin: 30px auto 70px auto;
+  color: transparent;
+  text-shadow: rgba(92, 182, 122, 0.6) 0px 0px 10px;
+}
+
+.ssn:hover {
   color: #5cb68b;
+  text-shadow: none;
 }

@@ -12,7 +12,7 @@ const customers = {
       "state": "missouri",
       "postcode": 99356
     },
-    "email": "curtis.ryan@example.com",
+    "email": "curtis.ryan@tiy.com",
     "login": {
       "username": "beautifulmouse544",
       "password": "beardog",
@@ -48,7 +48,7 @@ const customers = {
       "state": "vermont",
       "postcode": 65616
     },
-    "email": "martin.terry@example.com",
+    "email": "martin.terry@tiy.com",
     "login": {
       "username": "yellowladybug711",
       "password": "0000",
@@ -84,7 +84,7 @@ const customers = {
       "state": "west virginia",
       "postcode": 34757
     },
-    "email": "christine.cooper@example.com",
+    "email": "christine.cooper@tiy.com",
     "login": {
       "username": "bluebutterfly345",
       "password": "ninjas",
@@ -120,7 +120,7 @@ const customers = {
       "state": "washington",
       "postcode": 81948
     },
-    "email": "norman.henderson@example.com",
+    "email": "norman.henderson@tiy.com",
     "login": {
       "username": "ticklishswan439",
       "password": "titman",
@@ -156,7 +156,7 @@ const customers = {
       "state": "arkansas",
       "postcode": 81276
     },
-    "email": "jose.rhodes@example.com",
+    "email": "jose.rhodes@tiy.com",
     "login": {
       "username": "bigbird892",
       "password": "dingle",
@@ -192,7 +192,7 @@ const customers = {
       "state": "indiana",
       "postcode": 93281
     },
-    "email": "pauline.hughes@example.com",
+    "email": "pauline.hughes@tiy.com",
     "login": {
       "username": "bluemouse942",
       "password": "windows",
@@ -228,7 +228,7 @@ const customers = {
       "state": "maryland",
       "postcode": 19582
     },
-    "email": "darren.hunter@example.com",
+    "email": "darren.hunter@tiy.com",
     "login": {
       "username": "brownkoala114",
       "password": "comment",
@@ -264,7 +264,7 @@ const customers = {
       "state": "rhode island",
       "postcode": 80535
     },
-    "email": "oscar.walker@example.com",
+    "email": "oscar.walker@tiy.com",
     "login": {
       "username": "purplewolf995",
       "password": "hustler",
@@ -300,7 +300,7 @@ const customers = {
       "state": "utah",
       "postcode": 78169
     },
-    "email": "ann.beck@example.com",
+    "email": "ann.beck@tiy.com",
     "login": {
       "username": "tinybutterfly529",
       "password": "7777777",
@@ -336,7 +336,7 @@ const customers = {
       "state": "indiana",
       "postcode": 74875
     },
-    "email": "harper.morales@example.com",
+    "email": "harper.morales@tiy.com",
     "login": {
       "username": "bluewolf505",
       "password": "punisher",
@@ -372,7 +372,7 @@ const customers = {
       "state": "north dakota",
       "postcode": 64773
     },
-    "email": "tammy.hill@example.com",
+    "email": "tammy.hill@tiy.com",
     "login": {
       "username": "lazyswan632",
       "password": "johndeer",
@@ -408,7 +408,7 @@ const customers = {
       "state": "oregon",
       "postcode": 64032
     },
-    "email": "addison.graves@example.com",
+    "email": "addison.graves@tiy.com",
     "login": {
       "username": "beautifulwolf111",
       "password": "homepage-",

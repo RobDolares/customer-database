@@ -1,5 +1,5 @@
 body {
-  margin: 0 auto;
+  margin: 0 8%;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -15,21 +15,61 @@ main {
   margin: 0 auto;
   display: flex;
   flex-flow: wrap;
-  width: 100%;
+  justify-content: space-between;
 }
 
 .user-box {
-  flex: 0 0 25%;
-  margin: 0;
-  width: 100%;
-  align-items: center;
+  flex: 1 0 25%;
+  overflow:0;
+  text-align: center;
+  align-content: stretch;
 }
 
 img {
-  object-fit: ;
+  object-fit: fill;
+  width: 95%;
+  margin-bottom: 15px;
 }
 
 a {
   text-decoration: none;
+}
+
+h3 {
+  white-space: nowrap;
+  margin: 0px auto 5px auto;
+  text-transform: uppercase;
+  padding-bottom:15px;
+  font-size: 1em;
+}
+
+h3 >span {
+    border-bottom: 2px solid #5cb68b;
+}
+
+.email {
+  white-space: nowrap;
+  text-transform: uppercase;
+  font-size: .8em;
   color: #888;
+}
+
+address {
+  white-space: nowrap;
+  padding-top:10px;
+  line-height: 1.5em;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+  font-style: normal;
+  font-size: .8em;
+}
+
+.phone {
+  white-space: nowrap;
+  color: black;
+}
+
+.ssn {
+  margin: 30px auto 70px auto;
+  color: #5cb68b;
 }
